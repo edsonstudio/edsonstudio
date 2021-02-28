@@ -1,7 +1,3 @@
-<div align="center">
-        <img src="https://i.giphy.com/media/zXmbOaTpbY6mA/source.gif" alt="Dragon Store" />
-</div>
-
 ### Hello, my name is Edson Costa and I am recently graduated as a Technician in Systems Development from the SENAI-SP school in Brazil. 👋
 
 
