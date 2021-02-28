@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/55901214?s=96&v=4" alt="Dragon Store" width="150px" />
+        <img src="https://i.giphy.com/media/zXmbOaTpbY6mA/source.gif" alt="Dragon Store" />
 </div>
 
 ### Hello, my name is Edson Costa and I am recently graduated as a Technician in Systems Development from the SENAI-SP school in Brazil. 👋
