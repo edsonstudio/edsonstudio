@@ -27,10 +27,8 @@
 
 ### How to reach me: 
 
-[![Followers](https://img.shields.io/github/followers/edsont8?label=Followers&style=for-the-badge)]
-[![Follow](https://img.shields.io/github/followers/edsont8?color=very%20dark%20green&label=Follow&style=for-the-badge)]
-[![Twitch TV](https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge)
-[![Twitter](https://img.shields.io/twitter/url?color=lightblue&label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F%2FEdsonCa92953160)]
-[![Linked.in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/edson-costa-carneiro-da-silva-20a1a5203)]
-
+![Followers](https://img.shields.io/github/followers/edsont8?label=Followers&style=for-the-badge)
+![Follow](https://img.shields.io/github/followers/edsont8?color=very%20dark%20green&label=Follow&style=for-the-badge)
+<a href="https://www.linkedin.com/in/edson-costa-carneiro-da-silva-20a1a5203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/EdsonCa92953160"><img src="https://img.shields.io/twitter/url?color=lightblue&label=Twitter&style=for-the-badge"></a>
 <a href="https://twitch.tv/best_in_live"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
