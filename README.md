@@ -1,3 +1,7 @@
+<div style="align:center;">
+<img src="https://user-images.githubusercontent.com/55901214/111720883-8c1c9c80-883d-11eb-9386-5307976337b6.gif">
+</div>
+
 ### Hello, my name is Edson Costa and I am recently graduated as a Technician in Systems Development from the SENAI-SP school in Brazil. 👋
 
 
