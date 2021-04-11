@@ -2,11 +2,8 @@
   <img src="https://user-images.githubusercontent.com/55901214/114296935-493c9600-9a84-11eb-9f9e-cc2617cce828.png" width="100%">
 </div>
 
-### Hello, my name is Edson Costa and I am recently graduated as a Technician in Systems Development from the SENAI-SP school in Brazil. 👋
+### Hello, my name is Edson Costa and i'm recently graduated as a Technician in Systems Development from the SENAI-São Paulo school in Brazil. 👋
 
-
-- 🔭 I am currently refactoring the project to complete the technical course, mainly the frontend that was created with Angular 9 and I am migrating to ReactJS.
-- 🌱 I am currently learning more about ReactJS, Azure DevOps, SQL Server and Docker.
 ### Skills:
 ![Skill](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +28,6 @@
 
 ### How to reach me: 
 
-![Followers](https://img.shields.io/github/followers/edsont8?label=Followers&style=for-the-badge)
 <a href="https://www.linkedin.com/in/edson-costa-carneiro-da-silva-20a1a5203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/EdsonCa92953160"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://twitch.tv/best_in_live"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
