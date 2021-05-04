@@ -30,4 +30,4 @@
 <a href="https://twitch.tv/best_in_live"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
 
 ![Edson Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=edsont8&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsont8&layout=compact&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsont8&layout=compact&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=FFFFFF)
