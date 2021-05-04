@@ -5,6 +5,7 @@
 ### Hello, my name is Edson Costa and i'm recently graduated as a Technician in Systems Development from the SENAI-São Paulo school in Brazil. 👋
 
 ### Skills:
+![Skill](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Skill](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
