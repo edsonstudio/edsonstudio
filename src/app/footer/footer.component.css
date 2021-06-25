@@ -4,7 +4,7 @@
   left: 0;
   width: 100%;
   padding: 20px 0px;
-  background-color: var(--primary-color-dark);
+  background: var(--primary-color-dark);
 }
 
 .eddy-icon {
@@ -32,7 +32,7 @@
   text-decoration: none;
   font-size: 25px;
   display: block;
-  background-color: var(--primary-color-dark);
+  color: var(--primary-color-dark);
 }
 
 .eddy-icon ul li a i {
