@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/55901214/114296935-493c9600-9a84-11eb-9f9e-cc2617cce828.png" width="100%">
 </div>
 
-### Hello, my name is Edson Costa and i'm recently graduated as a Technician in Systems Development from the SENAI-São Paulo school in Brazil. 👋
+### Hi, my name is Edson Costa and I recently graduated as a Systems Development Technician at SENAI-São Paulo school, and I am currently a Systems Analysis and Development student at Estácio de Sá University - Recife-PE. 👋
+
+### My Portfolio: https://www.edson.studio/
 
 ### Skills:
 ![Skill](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
