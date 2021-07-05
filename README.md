@@ -28,9 +28,9 @@
 
 ### How to reach me: 
 
-<a href="https://www.linkedin.com/in/edson-costa-carneiro-da-silva-20a1a5203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/EdsonCa92953160"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://twitch.tv/best_in_live"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/edsonstudio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/Edson__Studio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.twitch.tv/edson__studio"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
 
-![Edson Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=edsont8&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsont8&layout=compact&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=FFFFFF)
+![Edson Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonstudio&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonstudio&layout=compact&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=FFFFFF)
