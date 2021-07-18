@@ -59,7 +59,7 @@
   background: var(--background-color);
   color: #FFF;
 	transform: rotateY(180deg);
-  padding: 15px 0;
+  padding: 15px 10px;
 	position: relative;
 	width: 100%;
   height: 95%;
