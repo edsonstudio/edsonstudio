@@ -13,10 +13,16 @@
 </h1>
 <section>
   <div class="side" id="side1">
-    <video src="assets/dev02.mp4" type="video/mp4" autoplay loop muted></video>
+    <video loop="true" autoplay="autoplay" [muted]="true">
+      <source src="assets/dev02.mp4" type="video/mp4" />
+      <source src="assets/dev02.webm" type="video/webm" />
+    </video>
   </div>
   <div class="side" id="side2">
-    <video src="assets/dev02.mp4" type="video/mp4" autoplay loop muted></video>
+    <video loop="true" autoplay="autoplay" [muted]="true">
+      <source src="assets/dev02.mp4" type="video/mp4" />
+      <source src="assets/dev02.webm" type="video/webm" />
+    </video>
   </div>
 </section>
 <div class="content">
