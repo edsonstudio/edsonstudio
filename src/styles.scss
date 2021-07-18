@@ -26,15 +26,16 @@ $eddy-theme-dark: mat-dark-theme($eddy-primary-dark, $eddy-accent-dark, $eddy-wa
     --background-color: #303030;
 }
 
-html,
-body {
-    height: 100%;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Roboto, "Helvetica Neue", sans-serif;
+  min-height: 200vh;
+  background: #222;
 }
 
 .eddy-footer-dark {
