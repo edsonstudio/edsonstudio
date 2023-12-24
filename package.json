@@ -5,7 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "ng deploy --base-href=https://edsonstudio.github.io/edsonstudio/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
