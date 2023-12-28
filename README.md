@@ -39,7 +39,6 @@
 ### How to reach me: 
 
 <a href="https://www.linkedin.com/in/edsonstudio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.twitch.tv/eddy__tube"><img src="https://img.shields.io/twitch/status/best_in_live?color=blueviolet&style=for-the-badge"></a>
 
 ![Edson Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonstudio&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonstudio&layout=compact&show_icons=true&bg_color=30,4C9900,193300,009900,193300&title_color=0f0&text_color=fff&icon_color=FFFFFF)
