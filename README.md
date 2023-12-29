@@ -1,8 +1,4 @@
-<div style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/55901214/114296935-493c9600-9a84-11eb-9f9e-cc2617cce828.png" width="100%">
-</div>
-
-### Hi, my name is Edson Costa and I recently graduated as a Systems Development Technician at SENAI-São Paulo school, and I am currently a Systems Analysis and Development student at Estácio de Sá University - Recife-PE. 👋
+### Hi, my name is Edson Costa and I recently graduated as a Systems Development Technician at SENAI-São Paulo school, and I am currently a Systems Analysis and Development student at Estácio de Sá University - Recife-PE - Brazil. 👋
 
 ### My Portfolio: [https://edsonstudio-portifolio.vercel.app](https://edsonstudio-portifolio.vercel.app)
 
