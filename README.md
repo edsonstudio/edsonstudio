@@ -1,4 +1,4 @@
-### Hi, my name is Edson Costa and I recently graduated as a Systems Development Technician at SENAI-São Paulo school, and I am currently a Systems Analysis and Development student at Estácio de Sá University - Recife-PE - Brazil. 👋
+### Hi, my name is Edson Costa 👋
 
 ### My Portfolio: [https://edsonstudio-portifolio.vercel.app](https://edsonstudio-portifolio.vercel.app)
 
